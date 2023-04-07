@@ -2,7 +2,7 @@
 
 This SharePoint SPFx web part features a fun and engaging Easter-themed game called Eggcellence Runner. Players help an Easter rabbit avoid obstacles and collect Easter eggs to gain points.
 
-# image
+# This is how it looks
 ![Eggcellence Runner](EggcellentRunner.gif)
 
 
