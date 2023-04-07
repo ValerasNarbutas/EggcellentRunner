@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.16.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.0-rc.1",
+    "libraryName": "eggcellent-runner",
+    "libraryId": "5df8fa6c-6b06-4364-bcc4-5861f5691e2b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "eggcellent-runner",
+    "solutionShortDescription": "eggcellent-runner description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "eggcellent-runner-client-side-solution",
+    "id": "5df8fa6c-6b06-4364-bcc4-5861f5691e2b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.0-rc.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "eggcellent-runner description"
+      },
+      "longDescription": {
+        "default": "eggcellent-runner description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "eggcellent-runner Feature",
+        "description": "The feature that activates elements of the eggcellent-runner solution.",
+        "id": "e6a2008a-1ac6-4f0a-ac11-08df9a532f3a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/eggcellent-runner.sppkg"
+  }
+}

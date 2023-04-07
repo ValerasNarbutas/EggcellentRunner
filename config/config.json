@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "eggcellent-runner-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/eggcellentRunner/EggcellentRunnerWebPart.js",
+          "manifest": "./src/webparts/eggcellentRunner/EggcellentRunnerWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "EggcellentRunnerWebPartStrings": "lib/webparts/eggcellentRunner/loc/{locale}.js"
+  }
+}
